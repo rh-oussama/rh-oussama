@@ -1,6 +1,6 @@
 # Hi, I'm Oussama Rhaddaoui! 👋
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&width=435&lines=42+Kuala+Lumpur+Student;Never+stop+learning)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&width=435&lines=1337+Benguerir+Student;Never+stop+learning)
 
 ## 👤 About Me
 
