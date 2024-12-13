@@ -17,7 +17,6 @@ I am a passionate student at 1337 Benguerir with a strong interest in technology
           <li>🌱 Exploring emerging technologies and expanding my technical expertise</li>
         </ul>
       </td>
-      <td style="border-left: 2px solid #ccc; height: 100px;"></td>
       <td>
         <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="500"/>
       </td>
