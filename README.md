@@ -10,7 +10,7 @@ I am a passionate student at 1337 Benguerir with a strong interest in technology
 <div align="center">
   <table>
     <tr>
-      <td style="text-align: left; padding-right: 80px;">
+      <td style="text-align: left; padding-right: 80px; border-right: 2px solid black;">
         <ul>
           <li>🎓 Student at 1337 Benguerir</li>
           <li>🛠️ Developing the <a href="https://www.google.com" style="color: blue; font-weight: bold;">Inception </a>Project</li>
@@ -23,6 +23,7 @@ I am a passionate student at 1337 Benguerir with a strong interest in technology
     </tr>
   </table>
 </div>
+
 
 
 ## 💻 Technical Skills
