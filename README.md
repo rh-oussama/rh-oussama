@@ -1,7 +1,9 @@
 # Hi, I'm Oussama Rhaddaoui 👋
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&width=435&lines=1337+Benguerir+Student;Never+stop+learning)
-[![orhaddao's 42 stats](https://badge.mediaplus.ma/darkgray/orhaddao)](https://github.com/oakoudad/badge42)
+<p align="center">
+  <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="300"/>
+</p>
 ## 👤 About Me
 I am a passionate student at 1337 Benguerir with a strong interest in technology and continuous learning. Always eager to embrace new challenges, I strive to push the boundaries of my skills through innovative projects and collaborations.
 
