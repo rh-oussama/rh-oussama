@@ -10,6 +10,15 @@ I am a passionate student at 1337 Benguerir with a strong interest in technology
 - 🛠️ Developing the [**Inception**](https://github.com/rh-oussama/inception) project
 - 🌱 Exploring emerging technologies and expanding my technical expertise
 
+## 🚀 Projects
+**[Inception Project](https://github.com/rh-oussama/inception)**  
+A system setup project to automate environment setup and deployments for development environments. Includes Docker and Kubernetes integration for scalability.
+
+**[Portfolio Website](https://github.com/rh-oussama/portfolio)**  
+Personal portfolio website built with HTML, CSS, and JavaScript. It showcases my skills, projects, and professional achievements.
+
+
+
 ## 💻 Technical Skills
 
 ### Programming Languages
