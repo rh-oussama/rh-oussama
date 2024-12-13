@@ -1,13 +1,14 @@
-# Hi, I'm Oussama Rhaddaoui! 👋
+# Hi, I'm Oussama Rhaddaoui 👋
+
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&width=435&lines=1337+Benguerir+Student;Never+stop+learning)
 
 ## 👤 About Me
-Passionate student at 1337 Benguerir with a keen interest in technology and continuous learning. I'm always seeking opportunities to expand my knowledge and tackle challenging projects that push the boundaries of my skills.
+I am a passionate student at 1337 Benguerir with a strong interest in technology and continuous learning. Always eager to embrace new challenges, I strive to push the boundaries of my skills through innovative projects and collaborations.
 
 ### 🚀 Current Focus
-- 🔭 Student at 1337 Benguerir
-- 🛠️ Developing [**inception**](https://github.com/rh-oussama/inception) project
-- 🌱 Exploring innovative technologies and expanding my technical expertise
+- 🎓 Student at 1337 Benguerir
+- 🛠️ Developing the [**Inception**](https://github.com/rh-oussama/inception) project
+- 🌱 Exploring emerging technologies and expanding my technical expertise
 
 ## 💻 Technical Skills
 
@@ -29,7 +30,6 @@ Passionate student at 1337 Benguerir with a keen interest in technology and cont
 ### Development Environment
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-
 
 ## 📊 GitHub Stats
 ![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rh-oussama&hide=issues&show_icons=true&count_private=true&theme=nightowl)
