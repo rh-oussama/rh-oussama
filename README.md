@@ -13,7 +13,7 @@ I am a passionate student at 1337 Benguerir with a strong interest in technology
       <td style="text-align: left; padding-right: 20px;">
         <ul>
           <li>🎓 Student at 1337 Benguerir</li>
-          <li>🛠️ Developing the [**<span style="color: blue;">Inception</span>](https://github.com/rh-oussama/inception) project</li>
+          <li>🛠️ Developing the <a href="https://www.google.com" style="color: blue; font-weight: bold;">Inception </a>Project</li>
           <li>🌱 Exploring emerging technologies and expanding my technical expertise</li>
         </ul>
       </td>
