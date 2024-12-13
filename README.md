@@ -19,20 +19,11 @@ I am a passionate student at 1337 Benguerir with a strong interest in technology
       </td>
       <td style="border-left: 2px solid #ccc; height: 100px;"></td>
       <td>
-        <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="500"/>
+        <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="900"/>
       </td>
     </tr>
   </table>
 </div>
-
-
-## 🚀 Projects
-**[Inception Project](https://github.com/rh-oussama/inception)**  
-- A system setup project to automate environment setup and deployments for development environments. Includes Docker and Kubernetes integration for scalability.
-
-**[Portfolio Website](https://github.com/rh-oussama/portfolio)**  
-Personal portfolio website built with HTML, CSS, and JavaScript. It showcases my skills, projects, and professional achievements.
-
 
 
 ## 💻 Technical Skills
