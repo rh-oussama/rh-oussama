@@ -1,16 +1,25 @@
 # Hi, I'm Oussama Rhaddaoui 👋
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&width=435&lines=1337+Benguerir+Student;Never+stop+learning)
-<p align="center">
-  <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="300"/>
-</p>
+
 ## 👤 About Me
 I am a passionate student at 1337 Benguerir with a strong interest in technology and continuous learning. Always eager to embrace new challenges, I strive to push the boundaries of my skills through innovative projects and collaborations.
 
 ### 🚀 Current Focus
-- 🎓 Student at 1337 Benguerir
-- 🛠️ Developing the [**Inception**](https://github.com/rh-oussama/inception) project
-- 🌱 Exploring emerging technologies and expanding my technical expertise
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <div style="flex: 1; text-align: left; padding-right: 20px;">
+    <ul>
+      <li>🎓 Student at 1337 Benguerir</li>
+      <li>🛠️ Developing the [**Inception**](https://github.com/rh-oussama/inception) project</li>
+      <li>🌱 Exploring emerging technologies and expanding my technical expertise</li>
+    </ul>
+  </div>
+  <div style="border-left: 2px solid #ccc; height: 100px; margin-left: 20px; margin-right: 20px;"></div>
+  <div>
+    <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="300"/>
+  </div>
+</div>
+
 
 ## 🚀 Projects
 **[Inception Project](https://github.com/rh-oussama/inception)**  
