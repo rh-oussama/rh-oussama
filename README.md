@@ -6,18 +6,23 @@
 I am a passionate student at 1337 Benguerir with a strong interest in technology and continuous learning. Always eager to embrace new challenges, I strive to push the boundaries of my skills through innovative projects and collaborations.
 
 ### 🚀 Current Focus
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <div style="flex: 1; text-align: left; padding-right: 20px;">
-    <ul>
-      <li>🎓 Student at 1337 Benguerir</li>
-      <li>🛠️ Developing the [**Inception**](https://github.com/rh-oussama/inception) project</li>
-      <li>🌱 Exploring emerging technologies and expanding my technical expertise</li>
-    </ul>
-  </div>
-  <div style="border-left: 2px solid #ccc; height: 100px; margin-left: 20px; margin-right: 20px;"></div>
-  <div>
-    <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="300"/>
-  </div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="text-align: left; padding-right: 20px;">
+        <ul>
+          <li>🎓 Student at 1337 Benguerir</li>
+          <li>🛠️ Developing the [**Inception**](https://github.com/rh-oussama/inception) project</li>
+          <li>🌱 Exploring emerging technologies and expanding my technical expertise</li>
+        </ul>
+      </td>
+      <td style="border-left: 2px solid #ccc; height: 100px;"></td>
+      <td>
+        <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="300"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
