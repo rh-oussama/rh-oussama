@@ -18,7 +18,7 @@ I am a passionate student at 1337 Benguerir with a strong interest in technology
         </ul>
       </td>
       <td>
-        <img src="https://badge.mediaplus.ma/darkgray/orhaddao" width="500"/>
+        <img src="" width="500"/>
       </td>
     </tr>
   </table>
