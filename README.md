@@ -17,9 +17,6 @@ I am a passionate student at 1337 Benguerir with a strong interest in technology
           <li>🌱 Exploring emerging technologies and expanding my technical expertise</li>
         </ul>
       </td>
-      <td>
-        <img src="" width="500"/>
-      </td>
     </tr>
   </table>
 </div>
